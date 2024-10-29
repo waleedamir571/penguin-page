@@ -10,6 +10,28 @@
   width: 1rem;
 }
 
+   .form_bottom form input:focus, 
+    .form_bottom form textarea:focus {
+        outline: none; /* Remove default outline */
+        box-shadow: 0 1px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 6px 0 rgba(0, 0, 0, 0.19); /* Same shadow as before */
+        color: #000 !important; /* Ensure the text color stays black */
+    }
+
+    .form_bottom form input:focus-visible, 
+    .form_bottom form textarea:focus-visible {
+        outline: none; /* Remove focus-visible outline */
+        box-shadow: 0 1px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 6px 0 rgba(0, 0, 0, 0.19); /* Same shadow as normal */
+        color: #000 !important; /* Ensure black text color stays */
+    }
+
+input[type="text"]::placeholder, 
+input[type="email"]::placeholder, 
+input[type="number"]::placeholder, 
+textarea::placeholder {
+    color: white !important; /* Placeholder text ka color white rakha hai */
+    opacity: 1; /* Ensure full opacity of the placeholder */
+}
+
 .aproch_circle :nth-child(even):before {
 
   transform: rotate(180deg);
@@ -20,7 +42,7 @@
   color: #fff;
   background-color: #1c1f23;
   border-color: #1a1e21;
-  box-shadow: 0 0 0 .25rem;
+  box-shadow: 0 0 0 .25rem !important;
 }
 
 .tab-content>.active {
@@ -115,7 +137,7 @@ p {
 .popup_form_wrp h2 {
   font-weight: 800;
   font-size: 35px;
-  color: #008080;
+  color: #f24405;
   margin: 0 0 10px 20px;
   position: relative;
 }
@@ -141,7 +163,7 @@ p {
   font-weight: 500;
   outline: none;
   color: white;
-  border: 1px solid #008080;
+  border: 1px solid #f24405;
 }
 
 .popup_form_wrp form {
@@ -171,7 +193,7 @@ p {
 }
 
 .modal-content {
-  border: 2px solid #008080 !important;
+  border: 2px solid #f24405 !important;
   background: #212529 !important;
 }
 
@@ -179,7 +201,7 @@ p {
   content: '';
   display: block;
   position: absolute;
-  background: #008080;
+  background: #f24405;
   width: 10px;
   height: 40px;
   left: -20px;
@@ -198,7 +220,7 @@ p {
 }
 
 span.color_form {
-  color: #008080;
+  color: #f24405;
 }
 
 button.btn-close {
@@ -219,7 +241,7 @@ button.btn-close:after {
   content: '';
   display: block;
   position: absolute;
-  background: #008080;
+  background: #f24405;
   width: 4px;
   height: 26px;
   top: 5px;
@@ -232,7 +254,7 @@ button.btn-close:before {
   content: '';
   display: block;
   position: absolute;
-  background: #008080;
+  background: #f24405;
   width: 4px;
   height: 26px;
   top: 5px;
@@ -654,7 +676,7 @@ section.sec_3s {
 }
 
 .global_btn a button.btn-dark:hover {
-  background: #008080 !important;
+  background: #f24405 !important;
   color: #212529 !important;
 }
 
@@ -3031,7 +3053,7 @@ section.added_sec_2.new_sec {
 .web_design_content h4 {
   font-size: 16px;
   font-weight: 400;
-  color: #008080;
+  color: #f24405;
   text-align: center;
   margin: 0 0 20px 0;
 }
