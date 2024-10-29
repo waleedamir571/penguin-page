@@ -1194,13 +1194,14 @@
             <div class="row mt-5 align-items-center">
                 <div class="col-md-12">
                     <div class="form_bottom">
-                        <form action="code.php" method="POST">
+                        <form action="/backend/action/action" method="POST">
+                            <input type="hidden" name="type" value="formLong">
                             <input type="text" name="name" placeholder="Full Name" required>
                             <div class="inner_fields">
                                 <input type="email" name="email" placeholder="Email Address" required>
-                                <input type="text" name="phone" id="phone" placeholder="Phone Number" required>
+                                <input type="number" name="phone" id="phone" placeholder="Phone Number" required>
                             </div>
-                            <textarea name="biref" placeholder="Brief Description"></textarea>
+                            <textarea name="message" placeholder="Brief Description"></textarea>
                             <input type="submit" name="banner_form_btn" value="Submit">
                         </form>
                     </div>
@@ -1285,11 +1286,12 @@
                             <div class="popup_form_wrp">
                                 <h2>GET FREE <span class="color_form">CONSULTATION</span></h2>
                                 <p><b>Discuss your idea with our consultants today</p>
-                                <form action="" method="POST">
+                                <form action="/backend/action/action" method="POST">
+                                    <input type="hidden" name="type" value="formLong">
                                     <input type="text" name="name" placeholder="Full Name" required="" required>
                                     <input type="email" name="email" placeholder="Email Address" required="" required>
                                     <input type="number" name="phone" id="phone" placeholder="Phone Number" required>
-                                    <textarea name="brief" placeholder="Enter a brief description about your project"
+                                    <textarea name="message" placeholder="Enter a brief description about your project"
                                         required="" required></textarea>
                                     <input type="submit" name="banner_form_btn" value="Submit">
                                 </form>
