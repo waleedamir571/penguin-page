@@ -28,7 +28,7 @@
 }
 
 .btn-green{
-  background-color: #008080 !important;
+  background-color: #f24405 !important;
   text-align: center;
    color: white;
     border: none;
@@ -320,7 +320,7 @@ div#navbarSupportedContent ul.navbar-nav li {
 
 button.btn-dark {
   text-align: center;
-  background: #008080 !important;
+  background: #f24405 !important;
   border: none;
   width: 210px;
   height: 50px;
@@ -552,7 +552,7 @@ section.sec_1 {
 }
 
 section.sec_2 {
-  background: #008080;
+  background: #f24405;
   padding: 15px 0;
 }
 
@@ -726,7 +726,7 @@ ul.tabs-li li span {
 }
 
 .tabs_navs ul#myTab li.nav-item button.active {
-  background: #008080 !important;
+  background: #f24405 !important;
   color: white;
 }
 
@@ -1397,7 +1397,7 @@ section.form-sec {
   margin: 0;
   width: 180px !important;
   padding: 0 !important;
-  background: #008080 !important;
+  background: #f24405 !important;
   height: 55px !important;
   border: none !important;
   color: #fff !important;
@@ -1713,7 +1713,7 @@ video#vid {
   position: absolute;
   right: -225px;
   width: 280px;
-  background: #008080;
+  background: #f24405 !important;
   /* background: -webkit-linear-gradient(135deg, #fcc12d 0, #b3830c 100%); */
   background: #008080;
   top: 0;
@@ -1773,7 +1773,7 @@ video#vid {
   right: -225px;
   background: #008080;
   /* background: -webkit-linear-gradient(135deg, #fcc12d 0, #b3830c 100%); */
-  background: #008080;
+  background: #f24405 !important;
   top: 63px;
   border-radius: 3px 0 0 3px;
   overflow: hidden;
@@ -1801,7 +1801,7 @@ video#vid {
 .btns_wrap .call_wrap span.icoo,
 .btns_wrap .chat_wrap span.icoo {
   color: #fff;
-  background: #008080;
+  background: #f24405 !important;
   font-size: 18px;
   padding: 15px 20px;
   border-right: 1px solid #ded9d9;
@@ -1840,9 +1840,9 @@ video#vid {
   font-weight: 700;
   position: relative;
   text-transform: uppercase;
-  background: #008080;
+  background: #f24405;
   /* background: linear-gradient(90deg, #47d8a2 0, #0081dc 91%); */
-  background: #008080;
+ 
   /* font-family: Poppins, sans-serif; */
   box-shadow: 0 0 40px #00000026;
   -webkit-box-shadow: 0 0 40px #00000026;
@@ -2957,7 +2957,7 @@ section#home {
 }
 
 .global_btn a button.btn_global {
-  background: #008080;
+  background: #f24405;
   padding: 13px 25px 13px 25px;
   border-radius: 42px;
   border: none;
@@ -3468,7 +3468,7 @@ section.sec_faqs {
 
 
 .faqs_content div#accordionExample .accordion-item h2.accordion-header button.accordion-button.collapsed {
-  background: #008080;
+  background: #f24405;
   color: white;
   margin: 0 0 20px 0;
   border-radius: 21px;
@@ -3477,7 +3477,7 @@ section.sec_faqs {
 .accordion-button::after {filter: invert(1);}
 
 .faqs_content div#accordionExample .accordion-item h2.accordion-header button.accordion-button {
-  background: #008080;
+  background: #f24405;
   color: white;
   border-radius: 20px;
 }
