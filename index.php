@@ -34,31 +34,32 @@
 
         <!-- Google Tag Manager -->
 
-        <script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=053e2c67-be01-471b-bd16-852776fdb086" defer> </script>
-    <!-- End of HubSpot Embed Code 27-May-2024-->
+        <script id="ze-snippet"
+            src="https://static.zdassets.com/ekr/snippet.js?key=053e2c67-be01-471b-bd16-852776fdb086" defer> </script>
+        <!-- End of HubSpot Embed Code 27-May-2024-->
 
-    
 
-    <!-- Start of hancockghostwriters6889 Zendesk Widget script 27-May-2024-->
-    
-<script>
-        zE(function () {
-            $zopim(function () {
-                $zopim.livechat.setOnUnreadMsgs(unread);
 
-                function unread(number) {
-                    if (number >= 1) {
-                        $zopim.livechat.window.show();
+        <!-- Start of hancockghostwriters6889 Zendesk Widget script 27-May-2024-->
+
+        <script>
+            zE(function () {
+                $zopim(function () {
+                    $zopim.livechat.setOnUnreadMsgs(unread);
+
+                    function unread(number) {
+                        if (number >= 1) {
+                            $zopim.livechat.window.show();
+                        }
                     }
-                }
+                });
             });
-        });
-</script>
-     
+        </script>
+
     </head>
 
 <body class="lp_wrap">
-  
+
     <!-- header -->
     <section class="header_top">
         <div class="container-fluid">
@@ -77,14 +78,14 @@
 
                         <ul>
 
-                            <li><a href="tel:+1 (949) 239-6045"><img src="assets/images/phone.png" alt="publishing">  +1 (949) 239-6045
+                            <li><a href="tel:+1 (949) 239-6045"><img src="assets/images/phone.png" alt="publishing"> +1
+                                    (949) 239-6045
                                 </a>
                             </li>
-                            <li><a href="mailto:info@hancockpublishers.com"><span
-                                        class="__cf_email__">
+                            <li><a href="mailto:info@hancockpublishers.com"><span class="__cf_email__">
                                         info@hancockpublishers.com</span></a>
                             </li>
-                            
+
                         </ul>
                     </div>
                 </div>
@@ -97,20 +98,20 @@
             <div class="row align-items-center">
                 <div class="col-md-2">
                     <div class="logo">
-                        <a href="/"><img style="width: 190px;" src="assets/images/logo-bottom.svg" alt="publishing"></a>
+                        <a href="#"><img style="width: 190px;" src="assets/images/logo-bottom.svg" alt="publishing"></a>
                     </div>
                 </div>
                 <div class="col-md-10">
                     <div class="menu">
                         <nav class="navbar navbar-expand-lg navbar-light">
-                           
+
                             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                                 <ul class="navbar-nav">
                                     <!-- <li class="nav-item">
                                     <a class="nav-link" href="/">Home</a>
                                 </li> -->
 
-                                
+
 
                                     <li class="nav-item last">
                                         <button type="button" class="btn-dark" data-bs-toggle="modal"
@@ -126,7 +127,106 @@
     </header>
 
     <!-- header end -->
-    <section class="home_banner" id="home" style="height: 650px;">
+    <section class="home_banner" id="home">
+        <div class="width-auto">
+            <div class="custom-container container">
+                <div class="row">
+                    <!-- Left Side Content -->
+                    <div class="col-md-4 ">
+                        <h2 class=" font-weight-bold amazon go-bold">Successful Journey <span class="span go-bold">to
+                                Amazon
+                                Book</span> Publishing Services</h2>
+                        <p class="inter text">The Best Publishing Agency Near You</p>
+                        <p class="inter text1">Hancock Publishers stands out with its comprehensive publishing services
+                            that
+                            make you a
+                            published author on Amazon, Kindle Direct Publishing, Barnes and Noble, Walmart, Apple
+                            Books,
+                            and more.</p>
+                        <ul class="info-list inter arrow">
+                            <li><img class="w-auto1" src="assets/images/right-arrow.png" alt=""> 4000+ Published Books
+                            </li>
+                            <li><img class="w-auto1" src="assets/images/right-arrow.png" alt=""> 500+ Published Authors
+                            </li>
+                            <li><img class="w-auto1" src="assets/images/right-arrow.png" alt=""> 80% Repeat Customers
+                            </li>
+                        </ul>
+                        <div class="global_btn pb-25">
+                            <a href="tel:+1 (949) 239-6045"><button class="btn_global1 ">Call Us Now <img class="pl-20"
+                                        src="assets/images/arrowblack.png" alt=""></button></a>
+                            <a href="javascript:$zopim.livechat.window.show()"><button class="btn_global btn-18"> Live
+                                    Chat
+                                    <img class="pl-20" src="assets/images/arrowblack.png" alt=""></button></a>
+
+                        </div>
+                        <div class="row d-none">
+                            <div class="col-md-4">
+                                <a href="https://www.trustpilot.com/review/hancockpublishers.com"><img
+                                        src="assets/images/trustpilot.png" alt=""></a>
+
+
+                            </div>
+                            <div class="col-md-4">
+
+                                <a href="https://www.bark.com/en/gb/company/hancock-publishers/zyX1d/"> <img
+                                        src="assets/images/Bark_Logo.png" alt=""></a>
+
+                            </div>
+                            <div class="col-md-4">
+
+                                <img src="assets/images/site.png" alt="">
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Right Side Form -->
+                    <div class="col-md-4 offset-md-4">
+                        <div class="form-section">
+
+
+                            <div class="form-container">
+                                <div class="mt-8">
+
+                                    <div class="form-title">Fill Up The Form To Begin Your Journey.</div>
+
+                                    <div class="row">
+                                        <div class="col-md-10 offset-md-1">
+                                            <form action="/backend/action/action" method="POST">
+                                                <input type="hidden" name="type" value="formLong">
+                                                <div class="form-group mt-4">
+                                                    <input type="text" name="name" class="form-control1"
+                                                        placeholder="Enter Your Name" required>
+                                                </div>
+                                                <div class="ptb-30">
+                                                    <div class="form-group">
+                                                        <input type="email" name="email" class="form-control1"
+                                                            placeholder="Your Email Address" required>
+                                                    </div>
+                                                </div>
+                                                <div class="form-group">
+                                                    <input type="text" name="phone" id="phone" class="form-control1"
+                                                        placeholder="Phone Number" required>
+                                                </div>
+
+                                                <div class="global_btn global_btn1" style="display: block !important;">
+                                                    <a href="#"><button class="btn_global1 ">Publish My Book <img
+                                                                class="pl-45" src="assets/images/arrowblack.png"
+                                                                alt=""></button></a>
+
+
+                                                </div>
+                                            </form>
+                                        </div>
+                                    </div>
+
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
 
     </section>
 
@@ -144,7 +244,8 @@
                         <div class="global_btn">
                             <a href="javacript:;"><button class="btn_global " data-bs-toggle="modal"
                                     data-bs-target="#exampleModal">PUBLISH NOW</button></a>
-                            <a href="tel:+1 (949) 239-6045"><button class="btn_global btn-dark"> +1 (949) 239-6045</button></a>
+                            <a href="tel:+1 (949) 239-6045"><button class="btn_global btn-dark1"> +1 (949)
+                                    239-6045</button></a>
 
                         </div>
                     </div>
@@ -221,8 +322,13 @@
                                                 <div class="global_btn mt-5 ">
                                                     <button type="button" class="btn-dark" data-bs-toggle="modal"
                                                         data-bs-target="#exampleModal">PUBLISH NOW</button>
-                                                    <a href="tel:+1 (949) 239-6045"><button type="button" class="btn-dark">
-                                                             +1 (949) 239-6045 </button></a>
+
+                                                    <div class="d-none">
+                                                        <a href="tel:+1 (949) 239-6045"><button type="button"
+                                                                class="btn-dark">
+                                                                +1 (949) 239-6045 </button></a>
+                                                    </div>
+
                                                 </div>
                                             </div>
                                         </div>
@@ -260,8 +366,9 @@
                                                 <div class="global_btn mt-5 ">
                                                     <button type="button" class="btn-dark" data-bs-toggle="modal"
                                                         data-bs-target="#exampleModal">PUBLISH NOW</button>
-                                                    <a href="tel:+1 (949) 239-6045"><button type="button" class="btn-dark">
-                                                             +1 (949) 239-6045 </button></a>
+                                                    <a href="tel:+1 (949) 239-6045"><button type="button"
+                                                            class="btn-dark">
+                                                            +1 (949) 239-6045 </button></a>
                                                 </div>
                                             </div>
                                         </div>
@@ -301,8 +408,9 @@
                                                 <div class="global_btn mt-5 ">
                                                     <button type="button" class="btn-dark" data-bs-toggle="modal"
                                                         data-bs-target="#exampleModal">PUBLISH NOW</button>
-                                                    <a href="tel:+1 (949) 239-6045"><button type="button" class="btn-dark">
-                                                             +1 (949) 239-6045 </button></a>
+                                                    <a href="tel:+1 (949) 239-6045"><button type="button"
+                                                            class="btn-dark">
+                                                            +1 (949) 239-6045 </button></a>
                                                 </div>
                                             </div>
                                         </div>
@@ -339,8 +447,12 @@
                                                 <div class="global_btn mt-5 ">
                                                     <button type="button" class="btn-dark" data-bs-toggle="modal"
                                                         data-bs-target="#exampleModal">PUBLISH NOW</button>
-                                                    <a href="tel:+1 (949) 239-6045"><button type="button" class="btn-dark">
-                                                             +1 (949) 239-6045 </button></a>
+
+                                                    <div class="d-none">
+                                                        <a class="d-none" href="tel:+1 (949) 239-6045"><button
+                                                                type="button" class="btn-dark d-none">
+                                                                +1 (949) 239-6045 </button>
+                                                    </div></a>
                                                 </div>
                                             </div>
                                         </div>
@@ -398,8 +510,8 @@
                 <div class="global_btn mt-5 text-center">
                     <button type="button" class="btn-dark" data-bs-toggle="modal" data-bs-target="#exampleModal">Get a
                         Quote</button>
-                   <a href="javascript:$zopim.livechat.window.show()"> <button type="button" class="btn-dark">Let's
-                        Chat</button></a>
+                    <a href="javascript:$zopim.livechat.window.show()"> <button type="button" class="btn-dark">Let's
+                            Chat</button></a>
                 </div>
             </div>
         </div>
@@ -407,8 +519,8 @@
 
     <section class="sec_3s">
         <div class="container">
-            <div class="row">
-                <div class="col-md-8">
+            <div class="row align-items-center">
+                <div class="col-md-7">
                     <div class="about_content text-center">
                         <!-- <h5>Let’s Start?</h5> -->
                         <h2>Ten years from now you will be more disappointed by the things that you didn't do than by
@@ -418,13 +530,12 @@
                         <div class="global_btn text-center ctaas_sec">
                             <button type="button" class="btn-dark" data-bs-toggle="modal"
                                 data-bs-target="#exampleModal">PUBLISH NOW</button>
-                            <a href="tel:+1 (949) 239-6045"><button type="button" class="btn-dark">  +1 (949) 239-6045
-                                </button></a> <button type="button" class="btn-dark loongBtn" data-bs-toggle="modal"
-                                data-bs-target="#exampleModal">Submit My Manuscript </button>
+                            <a href="tel:+1 (949) 239-6045"><button type="button" class="btn-dark"> +1 (949) 239-6045
+                                </button></a>
                         </div>
                     </div>
                 </div>
-                <div class="col-md-4">
+                <div class="col-md-4 offset-md-1">
                     <div class="share_idea_img">
                         <img src="assets/images/cta-side-img.webp" alt="penguinbookspublishers">
                     </div>
@@ -472,7 +583,7 @@
                         <div class="row mt-3 p-5 home_slider">
                             <div class="col-md-4">
                                 <div class="packages_boxes">
-                                    <h3>Penguin Starter</h3>
+                                    <h3>Hancock Publishers Starter</h3>
                                     <h2>$699</h2>
                                     <h6><del>$1499</del></h6>
                                     <ul>
@@ -487,9 +598,9 @@
                                         <li>Online sales dashboard to track sales</li>
                                     </ul>
                                     <div class="global_btn text-center">
-                                    <a href="javascript:$zopim.livechat.window.show()">  <button type="button" class="btn-green"
-                                           >Chat
-                                            Now</button></a>
+                                        <a href="javascript:$zopim.livechat.window.show()"> <button type="button"
+                                                class="btn-green">Chat
+                                                Now</button></a>
                                         <a href="tel:+1 (949) 239-6045"><button type="button" class="btn-dark">CALL
                                                 US</button></a>
                                     </div>
@@ -519,9 +630,9 @@
                                         <li>100% Royalties </li>
                                     </ul>
                                     <div class="global_btn text-center">
-                                      <a href="javascript:$zopim.livechat.window.show()">  <button type="button" class="btn-green"
-                                            >Chat
-                                            Now</button></a>
+                                        <a href="javascript:$zopim.livechat.window.show()"> <button type="button"
+                                                class="btn-green">Chat
+                                                Now</button></a>
                                         <a href="tel:+1 (949) 239-6045"><button type="button" class="btn-dark">CALL
                                                 US</button></a>
                                     </div>
@@ -560,9 +671,9 @@
 
                                     </ul>
                                     <div class="global_btn text-center">
-                                    <a href="javascript:$zopim.livechat.window.show()">  <button type="button" class="btn-green "
-                                            >Chat
-                                            Now</button></a>
+                                        <a href="javascript:$zopim.livechat.window.show()"> <button type="button"
+                                                class="btn-green ">Chat
+                                                Now</button></a>
                                         <a href="tel:+1 (949) 239-6045"><button type="button" class="btn-dark">CALL
                                                 US</button></a>
                                     </div>
@@ -591,9 +702,9 @@
                                         <li>100% Unique Design Guarantee</li>
                                     </ul>
                                     <div class="global_btn text-center">
-                                    <a href="javascript:$zopim.livechat.window.show()">  <button type="button" class="btn-green"
-                                           >Chat
-                                            Now</button></a>
+                                        <a href="javascript:$zopim.livechat.window.show()"> <button type="button"
+                                                class="btn-green">Chat
+                                                Now</button></a>
                                         <a href="tel:+1 (949) 239-6045"><button type="button" class="btn-dark">CALL
                                                 US</button></a>
                                     </div>
@@ -817,8 +928,8 @@
                                 <div class="global_btn text-center">
                                     <button type="button" class="btn-dark" data-bs-toggle="modal"
                                         data-bs-target="#exampleModal">PUBLISH NOW</button>
-                                   <a href="javascript:$zopim.livechat.window.show()"> <button type="button""
-                                        class="btn-dark">Let's Chat</button></a>
+                                    <a href="javascript:$zopim.livechat.window.show()"> <button type="button""
+                                        class=" btn-dark">Let's Chat</button></a>
                                 </div>
                             </div>
                         </div>
@@ -926,8 +1037,8 @@
                         <button type="button" class="btn-dark" data-bs-toggle="modal" data-bs-target="#exampleModal">Get
                             a
                             Quote</button>
-                            <a href="javascript:$zopim.livechat.window.show()">    <button type="button" class="btn-dark">Let's
-                            Chat</button></a>
+                        <a href="javascript:$zopim.livechat.window.show()"> <button type="button" class="btn-dark">Let's
+                                Chat</button></a>
                     </div>
                 </div>
             </div>
@@ -943,16 +1054,16 @@
                     </div>
                     <ul class="true_slider">
                         <li>
-                            <img src="assets/images/review2.JPG" alt="penguinbookspublishers">
+                            <img src="assets/images/review2.png" alt="">
                         </li>
                         <li>
-                            <img src="assets/images/review3.JPG" alt="penguinbookspublishers">
+                            <img src="assets/images/review3.png" alt="">
                         </li>
                         <li>
-                            <img src="assets/images/review4.JPG" alt="penguinbookspublishers">
+                            <img src="assets/images/review4.png" alt="">
                         </li>
                         <li>
-                            <img src="assets/images/review5.JPG" alt="penguinbookspublishers">
+                            <img src="assets/images/review5.png" alt="">
                         </li>
                     </ul>
 
@@ -1170,7 +1281,7 @@
                             clients become successful writers.</p>
                         <p>
                             What makes us different is our collaborative approach. From brainstorming to the final
-                            draft, we work closely with you to ensure your voice shines through. At Penguin Books
+                            draft, we work closely with you to ensure your voice shines through. At Hancock
                             Publishers, it’s not just about writing – it’s about bringing your unique story to life.
                         </p>
                     </div>
@@ -1185,7 +1296,7 @@
                     <div class="form_inner">
                         <h2>We Are Here For You</h2>
                         <p>Ready to take your business to the next level? Drop us your details or give us a call at <a
-                                href="tel:+1 (949) 239-6045"><span><b>  +1 (949) 239-6045</b></span></a>. We're eager to
+                                href="tel:+1 (949) 239-6045"><span><b> +1 (949) 239-6045</b></span></a>. We're eager to
                             discuss
                             your business objectives and explore how we can contribute to your growth.</p>
                     </div>
@@ -1196,14 +1307,18 @@
                     <div class="form_bottom">
                         <form action="/backend/action/action" method="POST">
                             <input type="hidden" name="type" value="formLong">
-                            <input type="text" name="name" placeholder="Full Name" required>
+                            <input class="black-placeholder" type="text" name="name" placeholder="Full Name" required>
                             <div class="inner_fields">
-                                <input type="email" name="email" placeholder="Email Address" required>
-                                <input type="number" name="phone" id="phone" placeholder="Phone Number" required>
+                                <input class="black-placeholder" type="email" name="email" placeholder="Email Address"
+                                    required>
+                                <input class="black-placeholder" type="number" name="phone" id="phone"
+                                    placeholder="Phone Number" required>
                             </div>
-                            <textarea name="message" placeholder="Brief Description"></textarea>
+                            <textarea name="message" class="black-placeholder"
+                                placeholder="Brief Description"></textarea>
                             <input type="submit" name="banner_form_btn" value="Submit">
                         </form>
+
                     </div>
                 </div>
 
@@ -1229,7 +1344,7 @@
             <div class="row">
                 <div class="col-md-4">
                     <div class="footer_inner">
-                        <a href="/"><img src="assets/images/logo-bottom.svg" alt="book publishing"></a>
+                        <a href="#"><img src="assets/images/logo-bottom.svg" alt="book publishing"></a>
                         <p>A full-scale premier publishing house that guides you every step of the way.</p>
 
                     </div>
@@ -1239,7 +1354,8 @@
                         <h2>Useful Links</h2>
                         <ul>
                             <li><a href="https://hancockpublishers.com/privacy-policy"> Privacy Policy</a></li>
-                            <li><a href="https://hancockpublishers.com/terms-and-conditions"> Terms and conditions </a></li>
+                            <li><a href="https://hancockpublishers.com/terms-and-conditions"> Terms and conditions </a>
+                            </li>
                         </ul>
                     </div>
                 </div>
@@ -1247,13 +1363,14 @@
                     <div class="footer_inner">
                         <h2>Contact us</h2>
                         <ul>
-                            <li><a href="mailto:info@hancockpublishers.com"><i
-                                        class="fa-solid fa-envelope"></i><span
+                            <li><a href="mailto:info@hancockpublishers.com"><i class="fa-solid fa-envelope"></i><span
                                         class="__cf_email__">
                                         info@hancockpublishers.com</span></a>
                             </li>
-                            <li><a href="javascript:;"><i class="fa-solid fa-location-dot"></i> 895 Dove Street, Newport Beach, CA 92660 United States</a> </li>
-                            <li> <a href="tel: +1 (949) 239-6045"> <i class="fa-solid fa-phone"></i>  +1 (949) 239-6045</a></li>
+                            <li><a href="javascript:;"><i class="fa-solid fa-location-dot"></i> 895 Dove Street, Newport
+                                    Beach, CA 92660 United States</a> </li>
+                            <li> <a href="tel: +1 (949) 239-6045"> <i class="fa-solid fa-phone"></i> +1 (949)
+                                    239-6045</a></li>
                         </ul>
                     </div>
                 </div>
@@ -1288,11 +1405,14 @@
                                 <p><b>Discuss your idea with our consultants today</p>
                                 <form action="/backend/action/action" method="POST">
                                     <input type="hidden" name="type" value="formLong">
-                                    <input type="text" name="name" placeholder="Full Name" required="" required>
-                                    <input type="email" name="email" placeholder="Email Address" required="" required>
-                                    <input type="number" name="phone" id="phone" placeholder="Phone Number" required>
-                                    <textarea name="message" placeholder="Enter a brief description about your project"
-                                        required="" required></textarea>
+                                    <input class="white-placeholder" type="text" name="name" placeholder="Full Name"
+                                        required>
+                                    <input class="white-placeholder" type="email" name="email"
+                                        placeholder="Email Address" required>
+                                    <input class="white-placeholder" type="number" name="phone" id="phone"
+                                        placeholder="Phone Number" required>
+                                    <textarea class="white-placeholder" name="message"
+                                        placeholder="Enter a brief description about your project" required></textarea>
                                     <input type="submit" name="banner_form_btn" value="Submit">
                                 </form>
                             </div>
@@ -1307,7 +1427,7 @@
     <!-- side__widgets -->
     <div class="floatbutton">
         <div class="btns_wrap">
-            <a href="javascript:$zopim.livechat.window.show()"  class="chat_wrap liveChat">
+            <a href="javascript:$zopim.livechat.window.show()" class="chat_wrap liveChat">
                 <span class="icoo"><svg class="svg-inline--fa fa-comment" aria-hidden="true" focusable="false"
                         data-prefix="fas" data-icon="comment" role="img" xmlns="http://www.w3.org/2000/svg"
                         viewBox="0 0 512 512" data-fa-i2svg="">
@@ -1359,7 +1479,7 @@
         integrity="sha512-uURl+ZXMBrF4AwGaWmEetzrd+J5/8NRkWAvJx5sbPSSuOb0bZLqf+tOzniObO00BjHa/dD7gub9oCGMLPQHtQA=="
         crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 
-    
+
     <script>
         $(document).ready(function () {
             $('.logo_slider').slick({
@@ -1460,7 +1580,7 @@
         });
     </script>
 
-    
+
 
     <script>
         if (window.innerWidth < 767) {
@@ -1666,7 +1786,7 @@
             ]
         });
     </script>
-    
+
 </body>
 
 </html>
